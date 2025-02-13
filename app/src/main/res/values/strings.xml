@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">KashyapAssignment1</string>
+    <string name="default_time">00:00:00</string>
+    <string name="textStart">Start</string>
+    <string name="textStop">Stop</string>
+    <string name="textReset">Reset</string>
 </resources>
